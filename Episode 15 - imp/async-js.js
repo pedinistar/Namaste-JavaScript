@@ -1,0 +1,11 @@
+/*
+call stack is inside the js engine
+and this js engine is inside big red box
+and this red box is the browser
+
+the browser also has local storage
+also has a timer
+also has a url
+
+
+*/
